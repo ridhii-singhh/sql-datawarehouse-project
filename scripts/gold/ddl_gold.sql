@@ -10,7 +10,7 @@ Script Purpose:
     to produce a clean, enriched, and business-ready dataset.
 
 Usage:
-    - These views can be queried directly for analytics and reporting.
+    - These views can be queried directly for analytics and reporting
 ===============================================================================
 */
 
